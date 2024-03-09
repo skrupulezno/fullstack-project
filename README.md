@@ -1,1 +1,3 @@
 # fullstack-project
+
+Привет, мир!
